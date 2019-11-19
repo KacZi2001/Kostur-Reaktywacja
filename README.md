@@ -1,2 +1,2 @@
-# Kostur: Reaktywacja - Official Website
-Just a quick website for my machinima project.
+# Strona na zaliczenie
+Strona na zaliczenie przedmiotu "Tworzenie stron internetowych".
