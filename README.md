@@ -1,2 +1,2 @@
-# Strona na zaliczenie
-Strona na zaliczenie przedmiotu "Tworzenie stron internetowych".
+# Kostur: Reaktywacja - Official Website
+Just a quick website for my machinima project.
